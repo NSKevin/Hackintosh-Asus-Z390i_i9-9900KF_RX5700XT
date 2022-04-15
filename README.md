@@ -6,8 +6,11 @@
 
 ## Hardware Information
 **Mother Board:** Asus Z390-i
+
 **CPU:** Intel i9 9900KF (Without Embedded GPU)
+
 **GPU:** RX 5700XT
+
 **Machine Box:** Razer ITX
 
 ## Install Tips:
@@ -55,8 +58,11 @@
 
 ## 硬件信息
 **MotherBoard:** Asus Z390-i (华硕z390i)
+
 **CPU:** Intel i9 9900KF (无核显版本)
+
 **GPU:** RX 5700XT
+
 **Machine Box:** Razer ITX (雷蛇ITX机箱，箱子其实也不小。。。)
 
 ## 安装说明
