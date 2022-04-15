@@ -46,7 +46,7 @@
 >The config.plist and kext in project has fixed up the `BlueTooth problem`, you don't need to change that again :). Tips 5 is just for problem recording.
 
 ## Buy Me A Coffee ☕️
-![5](assets/5.png)
+![5](Assets/5.png)
 
 
 ## 中文介绍
@@ -96,13 +96,13 @@
 5. **用17年iMac的硬件信息**
 
 # Screenshot
-![1](assets/1.png)
-![2](assets/2.png)
-![3](assets/3.png)
-![4](assets/4.png)
+![1](Assets/1.png)
+![2](Assets/2.png)
+![3](Assets/3.png)
+![4](Assets/4.png)
 
 
 ## 请我喝杯咖啡吧 ☕️
-![5](assets/5.png)
+![5](Assets/5.png)
 
 
