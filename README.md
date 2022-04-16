@@ -5,11 +5,11 @@
 >Thanks To https://blog.daliansky.net/ for EFI boot file. If you want the newest Clover、Opencore and PE boot EFI file please use wechat to add '黑果小兵的部落阁'.
 
 ## Hardware Information
-**Mother Board:** Asus Z390-i
+**Mother Board:** Asus ROG STRIX `Z390-i` Gaming (Coffee Lake)
 
 **CPU:** Intel i9 9900KF (Without Embedded GPU)
 
-**GPU:** RX 5700XT
+**GPU:** AMD Radeon RX 5700XT (8176M)
 
 **Machine Box:** Razer ITX
 
@@ -57,11 +57,11 @@
 >感谢黑果小兵 https://blog.daliansky.net/ 提供的Monterey 12.3.1 dmg U盘三区文件,同时支持Clover/OpenCore/PE，当然需要先关注'黑果小兵的部落阁'微信公众号然后打赏之后才有下载消息，毕竟谁都不容易，根据自己的经济情况尽量多的给到作者支持吧 : )
 
 ## 硬件信息
-**MotherBoard:** Asus Z390-i (华硕z390i)
+**MotherBoard:**  Asus ROG STRIX `Z390-i` Gaming (Coffee Lake) (华硕z390i)
 
 **CPU:** Intel i9 9900KF (无核显版本)
 
-**GPU:** RX 5700XT
+**GPU:** AMD Radeon RX 5700XT (8176M)
 
 **Machine Box:** Razer ITX (雷蛇ITX机箱，箱子其实也不小。。。)
 
